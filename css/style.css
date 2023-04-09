@@ -1,5 +1,6 @@
 * {
     font-family: sans-serif !important;
+    /* font-size: 20px !important; */
 }
 
 .row-eq-height {
@@ -25,8 +26,8 @@
 } 
 
 img {
-    float:left; 
-    height:50px; 
+    /* float:left;  */
+    /* height:50px;  */
     margin:0px;
 }
 
